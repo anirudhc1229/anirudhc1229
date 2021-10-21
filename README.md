@@ -14,6 +14,7 @@ Skills:
   - LaTeX
 
 Reach out to me!
-Email: anirudh.chari05@gmail.com
-Snap: anirudhc1229
-Insta: anirudh.ch_
+  - Email: anirudh.chari05@gmail.com
+  - Phone: (630) 823-6053
+  - Snap: anirudhc1229
+  - Insta: anirudh.ch_
