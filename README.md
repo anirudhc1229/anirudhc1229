@@ -3,7 +3,8 @@ Hey, I'm Anirudh! I currently attend the Illinois Math and Science Academy and h
 Current interests:
   - Algorithms and complexity
   - Computational science
-  - Machine learning
+  - Robotics
+  - Natural Language Processing
 
 Skills:
   - Python
