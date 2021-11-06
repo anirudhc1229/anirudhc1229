@@ -4,7 +4,7 @@ Current interests:
   - Algorithms and complexity
   - Computational science
   - Robotics
-  - Natural Language Processing
+  - Natural language processing
 
 Skills:
   - Python
