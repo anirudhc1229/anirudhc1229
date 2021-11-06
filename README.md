@@ -11,7 +11,7 @@ Skills:
   - Java
   - C++
   - HTML/JS/CSS
-  - MERN
+  - MERN-stack
   - LaTeX
 
 Reach out to me!
