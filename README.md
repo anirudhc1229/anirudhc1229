@@ -1,10 +1,10 @@
 Hey, I'm Anirudh! I currently attend the Illinois Math and Science Academy and hope to pursue computer science as a career. This GitHub contains a few of my more significant projects: some created for school, some for competitions, and some just for fun. 
 
 Current interests:
-  - Natural language processing
-  - Computational science
   - Robotics
-  - Algorithms and complexity
+    - Motion planning, Motion generation  
+  - Computational science
+  - Natural language processing
 
 Skills:
   - Python
