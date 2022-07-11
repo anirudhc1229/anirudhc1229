@@ -5,7 +5,7 @@ Current interests:
     - Motion planning, Motion generation  
   - Parallel computing
   - Computational science
-  - Natural language processing
+  - Computer vision
 
 Reach out to me!
   - Email: anirudh.chari05@gmail.com
