@@ -8,5 +8,5 @@ Current interests:
   - Computer vision
 
 Reach out to me!
-  - Email: anirudh.chari05@gmail.com
+  - Email: achari@imsa.edu / anirudh.chari05@gmail.com
   - Phone: (630) 823-6053
