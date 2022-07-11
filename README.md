@@ -7,14 +7,6 @@ Current interests:
   - Computational science
   - Natural language processing
 
-Skills:
-  - Python
-  - Java
-  - C++
-  - HTML/JS/CSS
-  - MERN-stack
-  - LaTeX
-
 Reach out to me!
   - Email: anirudh.chari05@gmail.com
   - Phone: (630) 823-6053
