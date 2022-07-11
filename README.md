@@ -18,5 +18,3 @@ Skills:
 Reach out to me!
   - Email: anirudh.chari05@gmail.com
   - Phone: (630) 823-6053
-  - Facebook: anirudhc1229
-  - Instagram: anirudh.ch_
