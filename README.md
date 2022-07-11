@@ -2,7 +2,7 @@ Hey, I'm Anirudh! I currently attend the Illinois Math and Science Academy and h
 
 Current interests:
   - Robotics
-    - Motion planning, Motion generation  
+    - Planning & Control
   - Parallel computing
   - Computational science
   - Computer vision
