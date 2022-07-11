@@ -10,3 +10,4 @@ Current interests:
 Reach out to me!
   - Email: achari@imsa.edu / anirudh.chari05@gmail.com
   - Phone: (630) 823-6053
+  - Linkedin: https://www.linkedin.com/in/anirudh-chari-708975213/
