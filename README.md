@@ -2,12 +2,11 @@ Hey, I'm Anirudh! I currently attend the Illinois Math and Science Academy and h
 
 Current interests:
   - Robotics
-    - Planning & Control
+    - Planning, control, and multi-robot systems
   - Parallel computing
   - Computational science
   - Computer vision
 
 Reach out to me!
   - Email: achari@imsa.edu / anirudh.chari05@gmail.com
-  - Phone: (630) 823-6053
   - Linkedin: https://www.linkedin.com/in/anirudh-chari-708975213/
