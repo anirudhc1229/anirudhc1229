@@ -2,4 +2,4 @@ Hey, I'm Anirudh! I'm a high school student at the Illinois Mathematics Academy,
 
 Reach out to me!
   - Email: achari@imsa.edu / anirudh.chari05@gmail.com
-  - Linkedin: https://www.linkedin.com/in/anirudh-chari-708975213/
+  - Linkedin: linkedin.com/in/ani-chari
